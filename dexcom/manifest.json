@@ -1,0 +1,14 @@
+{
+  "domain": "dexcom",
+  "name": "Dexcom",
+  "config_flow": true,
+  "documentation": "https://github.com/gagebenne/home-assistant-dexcom",
+  "requirements": ["pydexcom==0.1.1"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@gagebenne"
+  ]
+}
