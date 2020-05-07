@@ -11,6 +11,8 @@
 
 The `dexcom` integration allows you to view your CGM data from [Dexcom](https://www.dexcom.com/) in Home Assistant.
 
+![p](https://user-images.githubusercontent.com/22921548/81246424-8d5a2780-8fe5-11ea-85f1-105a7ca6461b.png)
+
 ## Configuration
 
 **As a custom integration, you will need to copy the `/dexcom` directory to `homeassistant/custom_components` to load it.**
